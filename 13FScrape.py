@@ -1,3 +1,5 @@
+#script for scraping 13f.info. got rate throttled - to do - change first part of scrape to selenium...
+
 import time
 import requests
 import pandas as pd
